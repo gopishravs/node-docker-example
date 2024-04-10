@@ -9,7 +9,7 @@ jobs:
         with:
           fetch-depth: 0
       - run:
-          ls /home/runner/work/node-docker-example/node-docker-example/
+          ls .
        
 
     
