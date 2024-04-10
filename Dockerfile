@@ -1,4 +1,4 @@
-FROM node:12.2
+FROM node:20.0
 
 ENV HOME=/home/app
 
